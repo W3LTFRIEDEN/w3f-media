@@ -7,9 +7,7 @@
         "description": { "de": "Version 5.0", "en": "Version 5.0" },
         "files": [
           { "name": "w3ltfrieden-whitepaper-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
-          { "name": "w3ltfrieden-whitepaper-en.pdf", "label": { "de": "English", "en": "English" } },
-          { "name": "w3ltfrieden-whitepaper-es-draft.pdf", "label": { "de": "Español (Entwurf)", "en": "Español (Draft)" } },
-          { "name": "w3ltfrieden-whitepaper-fr-draft.pdf", "label": { "de": "Français (Entwurf)", "en": "Français (Draft)" } }
+          { "name": "w3ltfrieden-whitepaper-en.pdf", "label": { "de": "English", "en": "English" } }
         ]
       },
       {
@@ -17,9 +15,7 @@
         "description": { "de": "Version 2.2 · Entwurf", "en": "Version 2.2 · Draft" },
         "files": [
           { "name": "w3ltfrieden-ethik-charta-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
-          { "name": "w3ltfrieden-ethics-charter-en.pdf", "label": { "de": "English", "en": "English" } },
-          { "name": "w3ltfrieden-ethics-charter-es-draft.pdf", "label": { "de": "Español (Entwurf)", "en": "Español (Draft)" } },
-          { "name": "w3ltfrieden-ethics-charter-fr-draft.pdf", "label": { "de": "Français (Entwurf)", "en": "Français (Draft)" } }
+          { "name": "w3ltfrieden-ethics-charter-en.pdf", "label": { "de": "English", "en": "English" } }
         ]
       },
       {
