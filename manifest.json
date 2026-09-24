@@ -49,6 +49,13 @@
         ]
       },
       {
+        "title": { "de": "Pressefotos zur Vereinsgründung", "en": "Press photos: association founded" },
+        "description": { "de": "Fotos von der Gründung, mit Nutzungshinweisen im Archiv", "en": "Photos from the founding, with usage terms inside the archive" },
+        "files": [
+          { "name": "w3ltfrieden-pressefotos-vereinsgruendung-thomas-koch.zip", "label": { "de": "Herunterladen", "en": "Download" } }
+        ]
+      },
+      {
         "title": { "de": "W3ltfrieden Markenassets", "en": "W3ltfrieden brand assets" },
         "description": { "de": "Logos und Markenmaterial", "en": "Logos and brand material" },
         "files": [
