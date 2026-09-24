@@ -1,0 +1,60 @@
+{
+  "$schema": "./manifest.schema.json",
+  "sections": {
+    "documents": [
+      {
+        "title": { "de": "Whitepaper", "en": "Whitepaper" },
+        "description": { "de": "Version 5.0", "en": "Version 5.0" },
+        "files": [
+          { "name": "w3ltfrieden-whitepaper-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
+          { "name": "w3ltfrieden-whitepaper-en.pdf", "label": { "de": "English", "en": "English" } },
+          { "name": "w3ltfrieden-whitepaper-es-draft.pdf", "label": { "de": "Español (Entwurf)", "en": "Español (Draft)" } },
+          { "name": "w3ltfrieden-whitepaper-fr-draft.pdf", "label": { "de": "Français (Entwurf)", "en": "Français (Draft)" } }
+        ]
+      },
+      {
+        "title": { "de": "Ethik-Charta", "en": "Ethics charter" },
+        "description": { "de": "Version 2.2 · Entwurf", "en": "Version 2.2 · Draft" },
+        "files": [
+          { "name": "w3ltfrieden-ethik-charta-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
+          { "name": "w3ltfrieden-ethics-charter-en.pdf", "label": { "de": "English", "en": "English" } },
+          { "name": "w3ltfrieden-ethics-charter-es-draft.pdf", "label": { "de": "Español (Entwurf)", "en": "Español (Draft)" } },
+          { "name": "w3ltfrieden-ethics-charter-fr-draft.pdf", "label": { "de": "Français (Entwurf)", "en": "Français (Draft)" } }
+        ]
+      },
+      {
+        "title": { "de": "Moderations- und Verfahrensordnung", "en": "Moderation and procedural rules" },
+        "description": { "de": "Version 1.1 · Entwurf", "en": "Version 1.1 · Draft" },
+        "files": [
+          { "name": "w3ltfrieden-moderationsordnung-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
+          { "name": "w3ltfrieden-moderation-rules-en.pdf", "label": { "de": "English", "en": "English" } }
+        ]
+      }
+    ],
+    "press": [
+      {
+        "title": { "de": "Pressemitteilung zum Public-Beta-Launch", "en": "Public beta launch press release" },
+        "description": { "de": "Veröffentlichung: 24. September 2026", "en": "Release date: September 24, 2026" },
+        "files": [
+          { "name": "w3ltfrieden-pressemitteilung-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
+          { "name": "w3ltfrieden-press-release-en.pdf", "label": { "de": "English", "en": "English" } }
+        ]
+      },
+      {
+        "title": { "de": "Pressemitteilung zur Vereinsgründung", "en": "Press release: association founded" },
+        "description": { "de": "Veröffentlichung: 24. August 2026", "en": "Release date: August 24, 2026" },
+        "files": [
+          { "name": "w3ltfrieden-pressemitteilung-vereinsgruendung-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
+          { "name": "w3ltfrieden-press-release-association-founded-en.pdf", "label": { "de": "English", "en": "English" } }
+        ]
+      },
+      {
+        "title": { "de": "W3ltfrieden Markenassets", "en": "W3ltfrieden brand assets" },
+        "description": { "de": "Logos und Markenmaterial", "en": "Logos and brand material" },
+        "files": [
+          { "name": "w3ltfrieden-markenassets.zip", "label": { "de": "Herunterladen", "en": "Download" } }
+        ]
+      }
+    ]
+  }
+}
