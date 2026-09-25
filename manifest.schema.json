@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "w3ltfrieden.org/materials download list",
+  "title": "w3ltfrieden.de/materials download list",
   "type": "object",
   "required": ["sections"],
   "properties": {

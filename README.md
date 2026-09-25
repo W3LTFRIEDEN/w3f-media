@@ -1,6 +1,6 @@
 # w3f-media
 
-The files offered for download on [w3ltfrieden.org/materials](https://w3ltfrieden.org/de/materials).
+The files offered for download on [w3ltfrieden.de/materials](https://w3ltfrieden.de/de/materials).
 
 **Everything in this repository is public**, including every release asset, whether or not the
 manifest lists it.
@@ -21,7 +21,7 @@ manifest lists it.
 ## Add a file
 
 1. Name it in lowercase letters, digits and hyphens, ending in `.pdf`, `.zip`, `.png` or `.jpg`,
-   for example `w3ltfrieden-expose-de.pdf`. The name is the link: `w3ltfrieden.org/downloads/<name>`.
+   for example `w3ltfrieden-expose-de.pdf`. The name is the link: `w3ltfrieden.de/downloads/<name>`.
 2. Publish a release with the file as an asset. Tag it with the date, `2026-09-24`, and add `-2`
    for a second release on the same day.
 
