@@ -10,6 +10,8 @@ manifest lists it.
 - `manifest.json` decides what the page shows: the cards in each section (`documents`, `press`),
   their title and description in German and English, and the files on each card with their link
   labels.
+- Descriptions can use `\n` to put the version, draft label or release date on its own line after
+  the sentence explaining what the download offers.
 - The files themselves are assets on the releases of this repository. The site links each file
   name to the newest published release that carries an asset with that name.
 - The site picks up a change within five minutes. Nothing needs deploying.
