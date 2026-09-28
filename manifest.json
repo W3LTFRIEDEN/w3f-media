@@ -37,11 +37,27 @@
     ],
     "press": [
       {
-        "title": { "de": "Pressemitteilung zum Public-Beta-Launch", "en": "Public beta launch press release" },
-        "description": { "de": "Hier findest du die wichtigsten Informationen zum Start der öffentlichen Testphase.\nVeröffentlichung: 24. September 2026", "en": "Find the key information about the launch of the public beta.\nRelease date: September 24, 2026" },
+        "title": { "de": "Pressemitteilung: Hamburg und Region", "en": "Press release: Hamburg and region" },
+        "description": { "de": "Hintergründe zum Hamburger Gründerteam, zur Plattform und zur TV-Kampagne zum Start der öffentlichen Beta.\nVeröffentlichung: 24. September 2026", "en": "Background on the Hamburg founding team, the platform and the TV campaign for the public beta launch.\nRelease date: September 24, 2026" },
         "files": [
-          { "name": "w3ltfrieden-pressemitteilung-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
-          { "name": "w3ltfrieden-press-release-en.pdf", "label": { "de": "English", "en": "English" } }
+          { "name": "w3ltfrieden-pressemitteilung-hamburg-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
+          { "name": "w3ltfrieden-press-release-hamburg-en.pdf", "label": { "de": "English", "en": "English" } }
+        ]
+      },
+      {
+        "title": { "de": "Pressemitteilung: Politik und Gesellschaft", "en": "Press release: politics and society" },
+        "description": { "de": "Wie W3ltfrieden gemeinsames Engagement für Frieden organisiert und ethische Leitlinien mit menschlicher Verantwortung verbindet.\nVeröffentlichung: 24. September 2026", "en": "How W3ltfrieden organises collective action for peace and combines ethical principles with human responsibility.\nRelease date: September 24, 2026" },
+        "files": [
+          { "name": "w3ltfrieden-pressemitteilung-politik-gesellschaft-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
+          { "name": "w3ltfrieden-press-release-politics-society-en.pdf", "label": { "de": "English", "en": "English" } }
+        ]
+      },
+      {
+        "title": { "de": "Pressemitteilung: Wirtschaft, Technologie und Medien", "en": "Press release: business, technology and media" },
+        "description": { "de": "Einblick in die KI-gestützte Missionsentwicklung, die menschliche Prüfung und die TV-Kampagne zum Start.\nVeröffentlichung: 24. September 2026", "en": "An overview of AI-assisted mission development, human review and the launch TV campaign.\nRelease date: September 24, 2026" },
+        "files": [
+          { "name": "w3ltfrieden-pressemitteilung-wirtschaft-technologie-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
+          { "name": "w3ltfrieden-press-release-business-technology-en.pdf", "label": { "de": "English", "en": "English" } }
         ]
       },
       {
