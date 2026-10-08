@@ -33,6 +33,14 @@
           { "name": "w3ltfrieden-moderationsordnung-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } },
           { "name": "w3ltfrieden-moderation-rules-en.pdf", "label": { "de": "English", "en": "English" } }
         ]
+      },
+      {
+        "title": { "de": "Flyer Nr. 1 zum Selbstdrucken", "en": "Flyer no. 1 to print yourself" },
+        "description": { "de": "Drucke unseren zweiseitigen Flyer im A6-Format aus und gib die Idee von W3ltfrieden weiter. Du kannst die Druckvorlage oder die originalen JPG-Druckdaten herunterladen.\nMotiv: Happy Birthday · Sprache: Deutsch", "en": "Print our two-sided A6 flyer and share the idea behind W3ltfrieden. Download the print template or the original JPG print files.\nDesign: Happy Birthday · Language: German" },
+        "files": [
+          { "name": "w3ltfrieden-flyer-1-a6.pdf", "label": { "de": "Druckvorlage", "en": "Print template" } },
+          { "name": "w3ltfrieden-flyer-1-druckdaten.zip", "label": { "de": "JPG-Druckdaten", "en": "JPG print files" } }
+        ]
       }
     ],
     "press": [
@@ -57,14 +65,6 @@
         "description": { "de": "Nutze Bilder der Vereinsgründung für deine Berichterstattung und beachte die beigefügten Nutzungshinweise.", "en": "Use photos of the association's founding in your reporting and follow the included usage guidelines." },
         "files": [
           { "name": "w3ltfrieden-pressefotos-vereinsgruendung-thomas-koch.zip", "label": { "de": "Herunterladen", "en": "Download" } }
-        ]
-      },
-      {
-        "title": { "de": "Flyer Nr. 1 zum Selbstdrucken", "en": "Flyer no. 1 to print yourself" },
-        "description": { "de": "Drucke unseren zweiseitigen Flyer im A6-Format aus und gib die Idee von W3ltfrieden weiter. Du kannst die Druckvorlage oder die originalen JPG-Druckdaten herunterladen.\nMotiv: Happy Birthday · Sprache: Deutsch", "en": "Print our two-sided A6 flyer and share the idea behind W3ltfrieden. Download the print template or the original JPG print files.\nDesign: Happy Birthday · Language: German" },
-        "files": [
-          { "name": "w3ltfrieden-flyer-1-a6.pdf", "label": { "de": "Druckvorlage", "en": "Print template" } },
-          { "name": "w3ltfrieden-flyer-1-druckdaten.zip", "label": { "de": "JPG-Druckdaten", "en": "JPG print files" } }
         ]
       },
       {
