@@ -45,6 +45,13 @@
     ],
     "press": [
       {
+        "title": { "de": "Pressemitteilung: TV-Spot und Spenden", "en": "Press release: TV spot and donations" },
+        "description": { "de": "Erfahre mehr über unseren neuen TV-Spot, die geplante Kampagne und die Spenden für die Entwicklung der Plattform.\nVeröffentlichung: 13. Oktober 2026", "en": "Learn about our new TV spot, the planned campaign and the donations supporting the platform's development.\nRelease date: October 13, 2026" },
+        "files": [
+          { "name": "w3ltfrieden-pressemitteilung-2026-10-13-de.pdf", "label": { "de": "Deutsch", "en": "Deutsch" } }
+        ]
+      },
+      {
         "title": { "de": "Pressemitteilung zum Public-Beta-Launch", "en": "Public beta launch press release" },
         "description": { "de": "Hier findest du die wichtigsten Informationen zum Start der öffentlichen Testphase.\nVeröffentlichung: 24. September 2026", "en": "Find the key information about the launch of the public beta.\nRelease date: September 24, 2026" },
         "files": [
